@@ -1,0 +1,3 @@
+Association rules are normally written like this: {Diapers} -> {Beer} 
+which means that there is a strong relationship between customers that 
+purchased diapers and also purchased beer in the same transaction.
