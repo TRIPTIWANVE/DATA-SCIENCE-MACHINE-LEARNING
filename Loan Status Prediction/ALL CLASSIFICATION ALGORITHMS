@@ -1,0 +1,11 @@
+used models here: 
+Logistic Regression  83.12
+Naive Bayes  83.12
+Linear SVC  83.12
+Gradient Boosting Classifier  80.52
+Random Forest  77.92
+Decision Tree  76.62
+Support Vector Machines  71.43
+KNN  70.78
+Perceptron  27.92
+Stochastic Gradient Descent  27.92
