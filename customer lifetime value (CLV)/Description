@@ -1,0 +1,10 @@
+Predict customer lifetime value (CLV)
+
+Customer Lifetime Value is a monetary value that represents
+the amount of revenue a customer will provide the business over the lifetime of the relationship. 
+
+Several numerical techniques exist in computing Customer Lifetime Value, but we can compute CLV 
+reliably only for customers who have a significant purchase history with the company. But how can
+we compute this for a recent customer? Well, predictive analytics is here to help. The goal of 
+this use case to build a regression model that can predict the Customer Lifetime Value for a
+new or recent customer, based on his or her recent buying patterns.
